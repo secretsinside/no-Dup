@@ -1,5 +1,5 @@
 # no-Dup
-Its a basic utility software that checks for the presence of same file present inside the chosen directory and prompts user for
+Its a basic utility software that checks for the presence of same file present in multiple location(s) inside the chosen directory and prompts user for
 its deletion.
 
 **FEATURES**
